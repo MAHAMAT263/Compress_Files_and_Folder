@@ -13,6 +13,9 @@ Copy code
 git clone https://github.com/MAHAMAT263/Compress_file_and_folder
 cd your-repo
 
+particiation:
+MAHAMAT AHMAT
+
 Run the Script:
 
 bash
